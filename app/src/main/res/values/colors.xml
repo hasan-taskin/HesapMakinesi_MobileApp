@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="siyah">#FF000000</color>
+    <color name="beyaz">#FFFFFFFF</color>
+    <color name="sari">#fcd708</color>
+    <color name="turuncu">#fe901a</color>
+    <color name="gri">#cdcdcd</color>
+
+</resources>
